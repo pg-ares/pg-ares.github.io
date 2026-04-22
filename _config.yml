@@ -13,14 +13,18 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: PG ARES
-email: webmaster@pgares.org
+
+title: "PG ARES"
+subtitle: "Call Sign: W3PGC"
+email: ec@pgares.org
 description: >- # this means to ignore newlines until "baseurl:"
   PG ARES is a volunteer organization of amateur radio operators who provide
   communications support to served agencies for emergencies and public service
   events in Prince George's County, Maryland.
 minimal_mistakes_skin: dirt
 search: true
+locale: "en-US"
+url: "https://pg-ares.github.io"
 
 # Build settings
 markdown: kramdown
