@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "PG ARES"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/PGARESLogo.gif"
   bio    : "Providing communications support for emergencies and public service in Prince George's County."
   links:
     - label: "Website"
