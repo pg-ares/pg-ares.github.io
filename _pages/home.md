@@ -1,8 +1,7 @@
 ---
-title: "Splash Page"
 layout: splash
 permalink: /
-date: 2026-04-22T00:22:00-00:00
+hidden: true
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
