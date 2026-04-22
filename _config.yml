@@ -56,7 +56,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "PG RES
+  name   : "PG ARES"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Providing communications support for emergencies and public service in Prince George's County."
   links:
