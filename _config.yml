@@ -77,6 +77,11 @@ footer:
       icon: "fa-solid fa-at"
       url: "https://groups.google.com/g/pgares"
 
+collections:
+  resources:
+    output: true
+    permalink: /:collection/:path/
+
 defaults:
   # _posts
   - scope:
