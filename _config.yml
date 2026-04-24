@@ -69,6 +69,8 @@ author:
       icon: "fas fa-fw fa-link"
       url: "https://pgares.org"
 
+logo: "/assets/images/PGARESLogo_header.gif"
+
 footer:
   links:
     - label: "Facebook"
