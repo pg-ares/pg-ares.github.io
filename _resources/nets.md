@@ -11,4 +11,4 @@ If the repeater should go off the air, our secondary repeater is the K3GMR repea
 We welcome members to volunteer as the net control station. The net control script is available [at this link](/assets/files/net-control-script-v9.pdf).
 
 # HF Hospital Net
-We also hold a monthly HF net to encourage members of the Maryland/DC Section and PG ARES to test their HF band equipment and practice SSB operations to support the Maryland Hospital Coalition, This net is held on the third Tuesday of each month, at 7 PM local time, on 3820 kHz (give or take a kHz or two for band conditions). The HF Hospital Net script is available [at this link](/assets/files/hfhn-ncs-scrip-v10.pdf).
+We also hold a monthly HF net to encourage members of the Maryland/DC Section and PG ARES to test their HF band equipment and practice SSB operations to support the Maryland Hospital Coalition, This net is held on the third Tuesday of each month, at 7 PM local time, on 3820 kHz (give or take a kHz or two for band conditions). The HF Hospital Net script is available [at this link](/assets/files/hfhn-ncs-script-v10.pdf).

@@ -28,10 +28,10 @@ feature_row:
     url: "resources/hospital-coalition/"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/tornado-splash.jpg
-    alt: "Tornado Splash Image"
-    title: "Emergency Management"
-    excerpt: "Upcoming training and activities"
+  - image_path: /assets/images/radio-splash.jpg
+    alt: "Radio Splash Image"
+    title: "Membership"
+    excerpt: "Join us and support your community."
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
