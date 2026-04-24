@@ -101,13 +101,15 @@ defaults:
       type: pages
     values:
       layout: single
+      classes: wide
       author_profile: true
   # _resources
   - scope:
-      path: "_resources"
-      type: pages
+      path: ""
+      type: resources
     values:
       layout: single
+      classes: wide
       author_profile: true
 
 category_archive:

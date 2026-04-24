@@ -18,14 +18,14 @@ feature_row:
     alt: "Satellite Splash Image"
     title: "Weekly Nets"
     excerpt: "Join us on the air."
-    url: "news/weekly-nets/"
+    url: "resources/nets/"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/hospital-splash.jpg
     alt: "Hospital Splash Image"
     title: "Hospital Coalition"
     excerpt: "Learn more about our work in area hospitals."
-    url: "#test-link"
+    url: "resources/hospital-coalition/"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/tornado-splash.jpg
