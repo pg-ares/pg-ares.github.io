@@ -25,6 +25,8 @@ minimal_mistakes_skin: dirt
 search: true
 locale: "en-US"
 url: "https://pg-ares.github.io"
+atom_feed:
+  hide: true
 
 # Build settings
 markdown: kramdown
