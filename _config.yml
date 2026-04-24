@@ -81,6 +81,9 @@ footer:
     - label: "Google Groups"
       icon: "fa-solid fa-at"
       url: "https://groups.google.com/g/pgares"
+    - label: "MDC Groups.io"
+      icon: "fa-solid fa-at"
+      url: "https://mdc.groups.io/g/PG"
 
 collections:
   resources:
