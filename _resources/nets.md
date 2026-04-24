@@ -1,7 +1,6 @@
 ---
 title: "Training Nets"
 subtitle: "Join us on the air."
-permalink: /nets/
 ---
 
 # Weekly Training Net
