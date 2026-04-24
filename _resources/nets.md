@@ -1,5 +1,6 @@
 ---
 title: "Training Nets"
+layout: single
 ---
 
 # Weekly Training Net
