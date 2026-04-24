@@ -14,7 +14,7 @@ excerpt: "Providing communications support for emergencies and public service ev
 intro: 
   - excerpt: 'We are radio amateurs who volunteer our and time equipment to serve our community when disaster strikes. Amateur Radio: When All Else Fails.'
 feature_row:
-  - image_path: assets/images/dish-splash.jpg
+  - image_path: /assets/images/dish-splash.jpg
     alt: "Satellite Splash Image"
     title: "Weekly Nets"
     excerpt: "Join us on the air."
@@ -32,7 +32,7 @@ feature_row:
     alt: "Radio Splash Image"
     title: "Membership"
     excerpt: "Join us and support your community."
-    url: "    url: "resources/membership/""
+    url: "resources/membership/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
