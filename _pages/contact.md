@@ -1,3 +1,8 @@
+---
+permalink: /contact/
+title: "Contact"
+---
+
 Join our email reflectors via [Google Groups](https://groups.google.com/g/pgares) and [Groups.io](https://mdc.groups.io/g/PG).
 {: .notice--info}
 
