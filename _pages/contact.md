@@ -9,8 +9,7 @@ For more information or to become a member, contact kb3sph [at] arrl.net
 
 # PG ARES Staff Members
 
-Jeffrey Humbert - KB3SPH
-
+Jeffrey Humbert - KB3SPH  
 Indian Head, MD
 ARES Emergency Coordinator (EC)
 

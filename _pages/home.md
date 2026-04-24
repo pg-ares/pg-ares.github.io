@@ -12,7 +12,7 @@ header:
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: "Providing communications support for emergencies and public service events in Prince George’s County, Maryland."
 intro: 
-  - excerpt: 'We are radio amateurs who volunteer our and time equipment to serve our community when disaster strikes. Amateur Radio: When All Else Fails.'
+  - excerpt: 'We are radio amateurs who volunteer our time and equipment to serve our community when disaster strikes. Amateur Radio: When All Else Fails.'
 feature_row:
   - image_path: /assets/images/dish-splash.jpg
     alt: "Satellite Splash Image"
