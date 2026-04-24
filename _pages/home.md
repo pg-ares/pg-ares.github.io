@@ -32,6 +32,7 @@ feature_row:
     alt: "Radio Splash Image"
     title: "Membership"
     excerpt: "Join us and support your community."
+    url: "    url: "resources/membership/""
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
