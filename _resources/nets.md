@@ -1,6 +1,5 @@
 ---
 title: "Training Nets"
-subtitle: "Join us on the air."
 ---
 
 # Weekly Training Net
