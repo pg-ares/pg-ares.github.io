@@ -1,5 +1,5 @@
 ---
-title: "Announcement: May MDC Digital EMCOMM Challenge"
+title: "May MDC Digital EMCOMM Challenge"
 last_modified_at: 2024-04-27
 categories:
   - News
