@@ -5,7 +5,7 @@ title: "Contact"
 
 Join our email reflectors via [Google Groups](https://groups.google.com/g/pgares) and [Groups.io](https://mdc.groups.io/g/PG).
 
-For more information or to become a member, contact kb3sph [at] arrl.net
+For more information, contact kb3sph [at] arrl.net
 
 # PG ARES Staff Members
 
@@ -27,7 +27,7 @@ AEC, Training
 
 Thomas Mason - W3OBX  
 District Heights, MD  
-AEC, Emergency Operations Center (EOC)
+AEC, EOC
 
 Benjamin Emmel - KB3N  
 Cheverly, MD  
