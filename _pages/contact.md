@@ -15,12 +15,20 @@ ARES Emergency Coordinator (EC)
 
 Bill Smith - N3XL  
 Bowie, MD  
-Assistant EC for Operations  
+Assistant EC (AEC), Operations  
 
 Charles Hallock - AA3WS  
 Accokeek, MD  
-Assistant EC for Logistics  
+AEC, Logistics  
 
 Pamela Humbert - KB3SWS  
 Indian Head, MD  
-Assistant EC for Training  
+AEC, Training 
+
+Thomas Mason - W3OBX  
+District Heights, MD  
+AEC, Emergency Operations Center (EOC)
+
+Benjamin Emmel - KB3N  
+Cheverly, MD  
+AEC, Webmaster
