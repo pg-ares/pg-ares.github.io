@@ -2,8 +2,6 @@
 title: "Maryland Hospital Coalition"
 ---
 
-# About the Hospital Coalition
-
 The PG-ARES Hospital Coalition consists of the seven hospitals in Prince Georges County, Maryland, linked together by Amateur Radio using VHF & UHF Voice & Data links during emergencies when all other means of communication (land-line telephone, cellphone & internet) is not available.
 
 In addition to our [regular nets](/resources/nets), we conduct quarterly drills and support emergency management activities at these area hospitals and local government entities. 
@@ -23,5 +21,5 @@ In addition to our [regular nets](/resources/nets), we conduct quarterly drills 
 
 ## Served Emergency Operations Centers
 * Prince George’s County EOC, 7915 Anchor St, Hyattsville, MD 20785
-* Montgomery County EOC, 1300 Quince Orchard Blvd, Gaithersburg, MD 20878Luminis Health
+* Montgomery County EOC, 1300 Quince Orchard Blvd, Gaithersburg, MD 20878
 * Howard County EOC, 3430 Courthouse Drive, Ellicott City, MD 21043
