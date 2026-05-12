@@ -18,4 +18,4 @@ The next monthly PRGE ARES meeting will be held at 7:00 p.m., Monday, 18 May 202
 
 Meeting participants are requested to bring their laptops/notebook computers to the meeting. No radios required. A WiFi access point and an Ethernet switch are expected to be available, however, if you have a mobile hotspot on your phone or an aircard to use with your laptop for internet access, please bring it.
 
-The online tools training will be in the format of follow along as we visit various applications/resources, e.g., Winlink.org (WebMail, Amateur Radio Message Viewer, Position Reports, and Live System Information), PSK Reporter, qrz.com, EchoLink, NetLogger, MDC | PG groups.io, pgares.org, and PG County WebEOC.
+The online tools training will be in the format of follow along as we visit various applications/resources, e.g., Winlink.org (WebMail, Amateur Radio Message Viewer, Position Reports, and Live System Information), PSK Reporter, qrz.com, EchoLink, NetLogger, MDC \| PG groups.io, pgares.org, and PG County WebEOC.
