@@ -9,7 +9,7 @@ tags:
 
 The next monthly PRGE ARES meeting will be held at 7:00 p.m., Monday, 15 August 2026, at the Prince George’s County, Fire Services Building, 6820 Webster Street, Landover Hills, MD, 20784. Meeting participants are requested to bring their laptops/notebook computers with Winlink Express to the meeting. No radios required. The Winlink training will be in the format of follow along as we visit various features of Winlink Express. If available, bring a smart phone with mobile hotspot capability.
  
-Prior to the meeting, please look up and have available the maidenhead grid squares (six character) for your home location and the Fire Services Building.  One source: <https://www.levinecentral.com/ham/grid_square.php>.
+Prior to the meeting, please look up and have available the maidenhead grid squares (six character) for your home location and the Fire Services Building.  One source: <https://www.levinecentral.com/ham/grid_square.php>
 
 
 ## Meeting Agenda
