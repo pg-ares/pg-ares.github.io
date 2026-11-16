@@ -7,7 +7,7 @@ tags:
   - Monthly Meetings
 ---
 
-he next monthly PRGE ARES meeting will be held at 7:00 p.m., Monday, 16 November 2026, at the Prince George’s County Fire Services Building, 6820 Webster Street, Landover Hills, MD, 20784.
+The next monthly PRGE ARES meeting will be held at 7:00 p.m., Monday, 16 November 2026, at the Prince George’s County Fire Services Building, 6820 Webster Street, Landover Hills, MD, 20784.
 Meeting Agenda includes:
 
 * Presentation/Demonstration/Q&A – ”HamsoverIP.com / Groundwire"  by Bill - N3XL.
