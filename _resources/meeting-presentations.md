@@ -7,3 +7,4 @@ From time to time, PGARES members will give presentations on emergency communica
 * NanoVNA Tutorial by Chuck AB3NA ([link](/assets/files/nanoVNATutorial.pdf))
 * Winlink Position Reporting by Jeff KB3SPH ([link](/assets/files/winlink-training-position-reporting.pdf))
   * Haversine Formula Calculator ([link](/assets/files/haversine-formula.xlsx))
+* HamsoverIP.com / Groundwire by Bill - N3XL ([link](/assets/files/20261110-HOIP-Groundwire.pdf))
